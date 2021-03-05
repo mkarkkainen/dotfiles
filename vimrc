@@ -65,7 +65,7 @@ Plug 'dracula/vim', { 'as': 'dracula' }
 Plug 'mbbill/undotree'
 Plug 'vim-utils/vim-man'
 Plug 'preservim/nerdtree'
-Plug 'ryanoasis/vim-devicons'
+" Plug 'ryanoasis/vim-devicons'
 " Telescope requirements
 
 call plug#end()
